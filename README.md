@@ -6,7 +6,7 @@ Sonarqube `9.9-community`
 
 Postgres `postgres:15`
 
-Easy yml updated for sonarqube 9.9 with postgres 15.
+Simple and Easy yml updated for sonarqube 9.9 with postgres 15 on Openshift platform.
 
 Just copy the project and changes the values
 
